@@ -1,0 +1,10 @@
+{
+  "version": "5d54e4ddb926",
+  "source": "Unity WebGL",
+  "files": {
+    "loader.js": "ThroneRockPublicWeb.loader.js",
+    "framework.js": "ThroneRockPublicWeb.framework.js",
+    "wasm": "ThroneRockPublicWeb.wasm",
+    "data": "ThroneRockPublicWeb.data"
+  }
+}
