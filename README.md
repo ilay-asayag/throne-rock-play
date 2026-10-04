@@ -5,6 +5,7 @@
 A four-lane rhythm game where every tap plays the chord. Tap tiles as they meet their receivers, hold the long ones, and keep your finger down to glide into the next lane when the chord changes.
 
 - **Timing help:** in the menu, choose OFF / LIGHT / MEDIUM / MAX. Higher levels give a wider timing window and put slightly early presses exactly on the beat.
+- **Bend & vibrato:** while holding a chord, drag up on its key to bend the note and wiggle side to side for vibrato.
 - **Controls:** touch / mouse, or `A` `S` `D` `F`. `Enter` starts, `Esc` pauses.
 - **Originals:** Crown the Night, Neon Riot, Throne Room Stomp, Overdrive Heart and First Light, all original Throne Rock songs.
 - **Swipe:** Zigzag Kingdom, Lightning Lanes and Switchback Groove. Keep your finger down and slide along stepping lines from block to block.
